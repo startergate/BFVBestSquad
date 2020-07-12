@@ -1,4 +1,4 @@
-### BFVBestSquad
+### Battlefield V - 최고의 분대
 startergate가 배틀필드 V 최고의 분대를 달성한 매치를 기록합니다.
 
 * 2019.06.29.
